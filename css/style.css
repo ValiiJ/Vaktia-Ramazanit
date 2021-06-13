@@ -1,0 +1,30 @@
+body{
+
+	width: 1180px;
+	margin: 50px auto;
+
+	
+}
+
+
+.title-header{
+	text-align: center;
+	
+	
+
+}
+
+#vaktia-ramazan{
+	text-align: center;
+
+
+
+}
+
+.footer{
+
+	display: flex;
+	justify-content: space-between;
+
+
+}
